@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.bak*
+makerworld_tab_token.json
+makerworld_tab.log
